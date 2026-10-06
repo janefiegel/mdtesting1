@@ -1,3 +1,5 @@
-title: First Page
-
-testing
+---
+title: First Page?
+nav_enabled: true
+---
+testing!
