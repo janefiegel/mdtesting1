@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Metadata Documentation Testing
+description: testing! 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://janefiegel.github.io/mdtesting1/
+
+permalink: pretty
+
+enable_copy_code_button: true
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
