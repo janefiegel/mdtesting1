@@ -38,7 +38,7 @@ Every metadata field addressed in the TUDC Metadata Guidelines follows the same 
 _Obligation_: identifies the metadata field’s level of requirement; will be either 'Mandatory' or 'Mandatory if applicable', 'Recommended', or 'Recommended if applicable'.  
 _MODS Definition_: definition of the associated MODS element or subelement as given by the Library of Congress’s MODS Official Web Site, if one is available. _MODS Definition_ links to the official guidelines for that specific element or subelement, if one exists.
 
-#### <ins>Basic Guidelines</ins>  
+#### <ins>Basic Guidelines</ins>
 This subsection summarizes the major formatting-related information for the metadata field. This includes important input instructions, general best practices, local rules and preferences, and, if applicable, possible authorities and controlled vocabularies to consult. Information regarding how content in this field displays in Primo VE and Alma Digital may also be provided.
 
 More comprehensive usage guidance is covered in the Detailed Guidelines subsection. Detailed Guidelines identifies the specific MODS element and/or subelement related to the metadata field and provides explanations on how its content should be constructed in a MODS XML record. The Detailed Guidelines subsection features technical information that will not be relevant to all users of the TUDC Metadata Guidelines; the Basic Guidelines subsection, however, is aimed at all users. 
