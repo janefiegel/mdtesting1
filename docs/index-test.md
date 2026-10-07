@@ -25,17 +25,8 @@ Building on the above obligation levels, metadata fields are further categorized
 **Core Expanded Metadata**: refers to all recommended and recommended if applicable metadata fields.  
 
 ## Common Abbreviations
-MODS
-: Metadata Object Description Schema. This is the metadata schema used by the Tulane University Digital Library, Tulane Inside and Out, and Scholarship at Tulane sections of Tulane University Digital Collections. The official MODS website, maintained by the Library of Congress, can be accessed through this link.
-
-XML
-: eXtensible Markup Language. MODS metadata is expressed using this markup language. Contributors will almost never have to work directly with XML records.
-
-TUDC
-: Tulane University Libraries Digital Collections. This is an online, freely accessible resource hosted by the Tulane University Libraries that is home to distinctive content from the Tulane University community. TUDC contains seven separate sections that each hold different types of material. However, when TUDC is mentioned in the TUDC Metadata Guidelines, it refers only to three specific sections: Tulane University Digital Library, Tulane Inside and Out, and Scholarship at Tulane. The TUDC homepage can be accessed through this link. 
-
-TUL
-: Tulane University Libraries. This is the parent organization that TUDC belongs to. TUL refers to all divisions, departments, and units in the Libraries system and not just those associated with TUDC.
-
-AD
-: Alma Digital. This, in conjunction with Primo VE, is the platform used to provide public access to TUDC. AD and Primo VE have various limitations on what metadata can be displayed and how, with slight differences between them. When AD is mentioned in the TUDC Metadata Guidelines, it refers to the metadata display for both AD and Primo VE; it will be explicitly noted when a display configuration only applies to one platform. 
+**MODS**: Metadata Object Description Schema. This is the metadata schema used by the Tulane University Digital Library, Tulane Inside and Out, and Scholarship at Tulane sections of Tulane University Digital Collections. The official MODS website, maintained by the Library of Congress, can be accessed through this link.  
+**XML**: eXtensible Markup Language. MODS metadata is expressed using this markup language. Contributors will almost never have to work directly with XML records.  
+**TUDC**: Tulane University Libraries Digital Collections. This is an online, freely accessible resource hosted by the Tulane University Libraries that is home to distinctive content from the Tulane University community. TUDC contains seven separate sections that each hold different types of material. However, when TUDC is mentioned in the TUDC Metadata Guidelines, it refers only to three specific sections: Tulane University Digital Library, Tulane Inside and Out, and Scholarship at Tulane. The TUDC homepage can be accessed through this link.   
+**TUL**: Tulane University Libraries. This is the parent organization that TUDC belongs to. TUL refers to all divisions, departments, and units in the Libraries system and not just those associated with TUDC.  
+**AD**: Alma Digital. This, in conjunction with Primo VE, is the platform used to provide public access to TUDC. AD and Primo VE have various limitations on what metadata can be displayed and how, with slight differences between them. When AD is mentioned in the TUDC Metadata Guidelines, it refers to the metadata display for both AD and Primo VE; it will be explicitly noted when a display configuration only applies to one platform. 
