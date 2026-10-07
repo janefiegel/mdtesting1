@@ -27,6 +27,10 @@ Recommended if applicable
 
 Building on the above obligation levels, metadata fields are further categorized into one of three groups: Core Metadata, Core Conditional Metadata, or Core Expanded Metadata. The main areas of the TUDC Metadata Guidelines are organized around these groupings, and explanations for each are supplied below. 
 
+**Core Metadata**: refers to all mandatory metadata fields.  
+**Core Conditional Metadata**: refers to all mandatory if applicable metadata fields. 
+**Core Expanded Metadata**: refers to all recommended and recommended if applicable metadata fields.
+
 Core Metadata
 : refers to all mandatory metadata fields.  
 
