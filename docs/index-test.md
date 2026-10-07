@@ -30,3 +30,17 @@ Building on the above obligation levels, metadata fields are further categorized
 **TUDC**: Tulane University Libraries Digital Collections. This is an online, freely accessible resource hosted by the Tulane University Libraries that is home to distinctive content from the Tulane University community. TUDC contains seven separate sections that each hold different types of material. However, when TUDC is mentioned in the TUDC Metadata Guidelines, it refers only to three specific sections: Tulane University Digital Library, Tulane Inside and Out, and Scholarship at Tulane. The TUDC homepage can be accessed through this link.   
 **TUL**: Tulane University Libraries. This is the parent organization that TUDC belongs to. TUL refers to all divisions, departments, and units in the Libraries system and not just those associated with TUDC.  
 **AD**: Alma Digital. This, in conjunction with Primo VE, is the platform used to provide public access to TUDC. AD and Primo VE have various limitations on what metadata can be displayed and how, with slight differences between them. When AD is mentioned in the TUDC Metadata Guidelines, it refers to the metadata display for both AD and Primo VE; it will be explicitly noted when a display configuration only applies to one platform. 
+
+## Section Structure
+Every metadata field addressed in the TUDC Metadata Guidelines follows the same section format structure. An overview of that structure is provided on the next page along with explanations for each subsection or area. 
+
+### Name of metadata field
+_Obligation_: identifies the metadata field’s level of requirement; will be either 'Mandatory' or 'Mandatory if applicable', 'Recommended', or 'Recommended if applicable'.  
+_MODS Definition_: definition of the associated MODS element or subelement as given by the Library of Congress’s MODS Official Web Site, if one is available. _MODS Definition_ links to the official guidelines for that specific element or subelement, if one exists.
+
+## <ins>Basic Guidelines</ins>
+This subsection summarizes the major formatting-related information for the metadata field. This includes important input instructions, general best practices, local rules and preferences, and, if applicable, possible authorities and controlled vocabularies to consult. Information regarding how content in this field displays in Primo VE and Alma Digital may also be provided.
+
+More comprehensive usage guidance is covered in the Detailed Guidelines subsection. Detailed Guidelines identifies the specific MODS element and/or subelement related to the metadata field and provides explanations on how its content should be constructed in a MODS XML record. The Detailed Guidelines subsection features technical information that will not be relevant to all users of the TUDC Metadata Guidelines; the Basic Guidelines subsection, however, is aimed at all users. 
+
+
